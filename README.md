@@ -7,9 +7,9 @@ scientific plots, many free software IDE don't support its visual outputs.
 that is hungarian_collision.ipynb
 it can be run on google colab, which supports scientific and advance plotting.
 
-4)All test image files should be in the working directory
+4) All test image files should be in the working directory
 
-5)Do not change points text files, the program updates them automatically according to 
+5) Do not change points text files, the program updates them automatically according to 
 the assigned shape.
 
 6) You can select the number of points that you want to keep out of canny
