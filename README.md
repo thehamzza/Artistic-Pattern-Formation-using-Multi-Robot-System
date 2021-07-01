@@ -1,3 +1,20 @@
+This project describes the work on multi-robot pattern formation on any kind of 
+arbitrary target patterns with the help of optimal robot deployment, using a method 
+that is independent of the number of robots with having utilized the least possible 
+resources necessary to achieve the desired goal of non-intersecting pattern or 
+design formation. Generation of uniform sets of goal positions, allocation of the 
+multi-robots on the respective goal assignments having optimal path and fast 
+convergence into consideration and finally smooth deployment of robots to avoid 
+collisions using distributed collision avoidance methods to consequently provide a 
+representative set of desired patterns. In this method, the trajectories are visually 
+appealing in the sense of being smooth, oscillation free, and showing fast 
+convergence having used the reliable positioning and assignment algorithms to 
+generate both visually and convincing final pattern formation by optimizing the 
+robots’ goal positions as well as simple and smooth robot motions at the transitions 
+of patterns.
+
+Points to Remember:
+
 1) delauny_voroni.py  and edgeDetection.py are python files that can be run in any IDE
 
 2) hungarian_collision.py is python file that runs perfectly fine, but due to its 
