@@ -40,3 +40,5 @@ than delauny_voronoi, so update the points file manually. If all 3 files were ru
 then it would not cause any problem.
 
 Thank You
+Regards,
+M Hamza
